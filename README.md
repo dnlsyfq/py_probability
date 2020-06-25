@@ -21,3 +21,9 @@ If we're interested in estimating the probability of a coin landing on heads. To
     
     
 <img src="img/pr1m1_pheads_good.png">
+
+*Probabilit(P)*:
+* *Event,E* 
+
+$P(E)$ = $\frac{No.of Events E happened}{No.of Experiment}$
+
