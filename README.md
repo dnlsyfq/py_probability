@@ -26,7 +26,7 @@ If we're interested in estimating the probability of a coin landing on heads. To
 ***Event,E***
 
 1. Empirical Probability
-$P(E)$ = $\frac{No.of Times Events happened}{No.of Times Experiment Repeated}$
+$P(E)$ = $\frac{\text{No.of Times Events happened}}{\text{No.of Times Experiment Repeated}$
 
 2. Theoretical Probability
-$P(E)$ = $\frac{No.of Successful Outcomes}{Total No. of Possible Outcomes}$
+$P(E)$ = $\frac{\text{No.of Successful Outcomes}}{\text{Total No. of Possible Outcomes}}$
