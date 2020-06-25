@@ -1,6 +1,6 @@
 # Probability
 
-## Introduction 
+### Introduction 
 
 For statistics, random experiment is any process for which we can't predict outcomes with certainty.
 
@@ -22,8 +22,11 @@ If we're interested in estimating the probability of a coin landing on heads. To
     
 <img src="img/pr1m1_pheads_good.png">
 
-*Probabilit(P)*:
-* *Event,E* 
+### Probabilit(P):
+***Event,E***
 
-$P(E)$ = $\frac{No.of Events E happened}{No.of Experiment}$
+1. Empirical Probability
+$P(E)$ = $\frac{No.of Times Events happened}{No.of Times Experiment Repeated}$
 
+2. Theoretical Probability
+$P(E)$ = $\frac{No.of Successful Outcomes}{Total No. of Possible Outcomes}$
